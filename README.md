@@ -43,7 +43,7 @@ The study codes documents that
 **announce** speech and text resources. It does not ingest those resources.
 
 # Current graph (working record)
-- Measure | Value| 
+  Measure | Value| 
 - Organisations | 24 |
 - Public links | 30 |
 - Connected components | 2 |
@@ -60,9 +60,11 @@ Intermediate | 2 |
 | User | 2 |
 
 **Components**
-Component | Organisations !
+
+Component | Organisations |
 - Main | 14 |
 - Isolated | 10 |
+
 These quantities describe the public record as coded. They do not measure end-user uptake.
 
 # Features
