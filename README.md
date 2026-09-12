@@ -1,6 +1,8 @@
 Nkitahodi
 
-A documentary network of collaboration among Ghanaian language-technology organisations, 2021–2026.
+A documentary network of collaboration among Ghanaian language-technology organisations, 2021–2026. A case of analyzing how knowledge and technology partnerships are documented and connected.
+
+
 
 # Live Demo
 
@@ -41,13 +43,13 @@ The study codes documents that
 **announce** speech and text resources. It does not ingest those resources.
 
 # Current graph (working record)
-Measure | Value|
-Organisations | 24 |
-Public links | 30 |
-Connected components | 2 |
-Clustering coefficient | 0.676 |
-| Mean geodesic distance (reachable pairs) | 2.110 |
-I Mean partners per organisation | 2.50 |
+- Measure | Value| 
+- Organisations | 24 |
+- Public links | 30 |
+- Connected components | 2 |
+- Clustering coefficient | 0.676 |
+- Mean geodesic distance (reachable pairs) | 2.110 |
+- Mean partners per organisation | 2.50 |
 
 **Roles**
 
@@ -58,9 +60,9 @@ Intermediate | 2 |
 | User | 2 |
 
 **Components**
-! Component | Organisations !
-Main | 14 |
-Isolated | 10 |
+Component | Organisations !
+- Main | 14 |
+- Isolated | 10 |
 These quantities describe the public record as coded. They do not measure end-user uptake.
 
 # Features
