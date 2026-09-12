@@ -1,8 +1,8 @@
-Nkitahodi
+# Nkitahodi Project
 
 A documentary network of collaboration among Ghanaian language-technology organisations, 2021–2026. 
 
-A case of analyzing how knowledge and technology partnerships are documented and connected.
+A case of analyzing how **knowledge and technology partnerships** are documented and connected.
 
 
 
@@ -13,6 +13,7 @@ A case of analyzing how knowledge and technology partnerships are documented and
 # Summary
 Nkitahodi is a web application that documents public collaboration among Ghanaian language-technology
 organisations for **2021-2026**.
+
 Each organisation is a node.
 An undirected link is recorded only when both organisations are named together in an eligible public source. 
 
@@ -20,7 +21,7 @@ The result is an inspectable map of the **public documentary record** .
 # Research framing
 This project sits at the intersection of **data science / network analysis** and **knowledge and technology transfer**: it shows how organisations working on
 Ghanaian language technology appear together in public sources (papers, official publications, grants, and national AI strategy).
-It is built as a concrete research and professional artifact withinclusion rules, reported graph
+It is built as a concrete research and professional artifact with inclusion rules, reported graph
 measures, and an interface.
 
 # Inclusion criteria
