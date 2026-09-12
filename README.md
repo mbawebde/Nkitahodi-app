@@ -22,7 +22,7 @@ The result is an inspectable map of the **public documentary record** .
 This project sits at the intersection of **data science / network analysis** and **knowledge and technology transfer**: it shows how organisations working on
 Ghanaian language technology appear together in public sources (papers, official publications, grants, and national AI strategy).
 
-It is built as a research and artifact with inclusion rules, reported graph
+It is built as a research artifact with inclusion rules, reported graph
 measures, and an interface.
 
 # Inclusion criteria
