@@ -41,24 +41,25 @@ The study codes documents that
 **announce** speech and text resources. It does not ingest those resources.
 
 # Current graph (working record)
-Measure | Value
-Organisations | 24
+Measure | Value|
+Organisations | 24 |
 Public links | 30 |
-Connected components | 2
-Clustering coefficient
-0.676 |
-| Mean geodesic distance (reachable pairs) | 2.110
+Connected components | 2 |
+Clustering coefficient | 0.676 |
+| Mean geodesic distance (reachable pairs) | 2.110 |
 I Mean partners per organisation | 2.50 |
+
 **Roles**
 
 Role Count
 -----:
 Producer | 20 |
-Intermediate 2
-| User | 2|
+Intermediate | 2 |
+| User | 2 |
+
 **Components**
 ! Component | Organisations !
-Main | 14
+Main | 14 |
 Isolated | 10 |
 These quantities describe the public record as coded. They do not measure end-user uptake.
 
@@ -72,9 +73,7 @@ intermediate; circle = user
 - Edge encoding: solid = project tie; dashed = institutional host tie
 
 # How to use
-1. Open [https://nkitahodi-
-app.vercel.appl(https://
-nkitahodi-app.vercel.app).
+1. Open (https://nkitahodi-app.vercel.app).
 2. Explore the network view (circular, clusters, or geography) .
 3. Select an organisation from the list or the figure.
 4. Review its cited partners, neighbourhood measures, and source of each public link.
