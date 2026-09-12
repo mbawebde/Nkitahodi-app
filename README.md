@@ -2,20 +2,23 @@ Nkitahodi
 
 A documentary network of collaboration among Ghanaian language-technology organisations, 2021–2026.
 
-#Live Demo
+# Live Demo
 
 [View the live app](https://nkitahodi-app.vercel.
-#Summary
+
+# Summary
 Nkitahodi is a web application that documents public collaboration among Ghanaian language-technology
 organisations for **2021-2026**.
 Each organisation is a node.
 An undirected link is recorded only when both organisations are named together in an eligible public source. The result is an inspectable map of the **public documentary record** - not a private network, and not a claim about everyday use in classrooms, farms, or markets.
-#Research framing
+
+# Research framing
 This project sits at the intersection of **data science / network analysis** and **knowledge and technology transfer**: it shows how organisations working on
 Ghanaian language technology appear together in public sources (papers, official publications, grants, and national AI strategy).
 It is built as a concrete research and professional artifact withinclusion rules, reported graph
 measures, and an interface.
-#Inclusion criteria
+
+# Inclusion criteria
 A link is included only when
 **both** organisations appear in one of the following:
 1. a peer-reviewed paper
@@ -25,7 +28,7 @@ A link is included only when
 April 2026)
 If a relationship is not evidenced in a source of this type, it does not appear on the map.
 
-#Scope and limitations
+# Scope and limitations
 **In scope**
 - Organisations named in eligible public documents
 - Announcements of speech and text language resources
@@ -36,7 +39,8 @@ If a relationship is not evidenced in a source of this type, it does not appear 
 - Inference about informal or unpublished collaboration
 The study codes documents that
 **announce** speech and text resources. It does not ingest those resources.
-#Current graph (working record)
+
+# Current graph (working record)
 Measure | Value
 Organisations | 24
 Public links | 30 |
@@ -46,6 +50,7 @@ Clustering coefficient
 | Mean geodesic distance (reachable pairs) | 2.110
 I Mean partners per organisation | 2.50 |
 **Roles**
+
 Role Count
 -----:
 Producer | 20 |
@@ -57,7 +62,7 @@ Main | 14
 Isolated | 10 |
 These quantities describe the public record as coded. They do not measure end-user uptake.
 
-#Features
+# Features
 - Network views: circular layout, clusters, and geography
 - Organisation picker with cited neighbourhood, neighbourhood clustering coefficient, mean geodesic distance among neighbours, and the admitting source of each link
 - Language tags (including
